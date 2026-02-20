@@ -86,7 +86,7 @@ const Hero = () => {
               </div>
               <div className="mt-50">
                 <p className="text-white/50 font-medium">
-                  Red Bull is appreciated worldwide by top athletes, busy
+                  Red Buffalo is appreciated worldwide by top athletes, busy
                   professionals, university students and travellers on long
                   journeys.
                 </p>
