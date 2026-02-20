@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "goldman";
+  src: url("./assets/fonts/goldman.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    font-family: goldman;
+}
